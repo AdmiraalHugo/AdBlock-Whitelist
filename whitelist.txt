@@ -2,3 +2,5 @@
 @@||*.snapchat.com^$important
 @@||*.appspot.com^$important
 @@||*.sc-gw.com^$important
+@@||*.sc-cdn.net^$important
+@@||*.snapkit.com^$important
