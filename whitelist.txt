@@ -5,3 +5,5 @@
 @@||*.sc-cdn.net^$important
 @@||*.snapkit.com^$important
 @@||*.*.*.nflxvideo.net^$important
+@@||*.nflximg.net^$important
+@@||*.*.nflxso.net^$important
