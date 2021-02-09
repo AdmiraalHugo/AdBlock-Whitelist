@@ -1,1 +1,2 @@
 @@||*.whatsapp.net^$important
+@@||app.snapchat.com^$important
