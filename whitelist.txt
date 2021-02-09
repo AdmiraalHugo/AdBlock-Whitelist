@@ -4,3 +4,4 @@
 @@||*.sc-gw.com^$important
 @@||*.sc-cdn.net^$important
 @@||*.snapkit.com^$important
+@@||*.*.*.nflxvideo.net^$important
