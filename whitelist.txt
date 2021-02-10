@@ -10,3 +10,5 @@
 @@||reisinfo.ns-mlab.nl^$important
 @@||updates-http.cdn-apple.com^$important
 @@||api.unity.com^$important
+@@||config.uca.cloud.unity3d.com^$important
+@@||prd-lender.cdp.internal.unity3d.com^$important
