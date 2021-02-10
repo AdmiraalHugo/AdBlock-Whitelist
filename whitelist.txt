@@ -7,3 +7,4 @@
 @@||*.*.*.nflxvideo.net^$important
 @@||*.nflximg.net^$important
 @@||*.*.nflxso.net^$important
+@@||reisinfo.ns-mlab.nl^$important
