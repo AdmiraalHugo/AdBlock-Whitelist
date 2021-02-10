@@ -17,3 +17,5 @@
 @@||*.*.braze.com^$important
 @@||d2.shared.global.fastly.net^$important
 @@||global.edge.bamgrid.com^$important
+@@||playback-certs.bamgrid.com^$important
+@@||*.cws.conviva.com^$important
