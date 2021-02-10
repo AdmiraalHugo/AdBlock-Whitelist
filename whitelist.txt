@@ -12,3 +12,5 @@
 @@||api.unity.com^$important
 @@||config.uca.cloud.unity3d.com^$important
 @@||prd-lender.cdp.internal.unity3d.com^$important
+@@||appconfigs.disney-plus.net^$important
+@@||prod-static.disney-plus.net^$important
