@@ -16,3 +16,6 @@
 @@||prod-static.disney-plus.net^$important
 @@||prod-ripcut-delivery.disney-plus.net^$important
 @@||dialacrum.iad-03.braze.com^$important
+@@||sdk.iad-01.braze.com^$important
+@@||d2.shared.global.fastly.net^$important
+@@||global.edge.bamgrid.com^$important
