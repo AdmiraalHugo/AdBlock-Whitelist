@@ -13,9 +13,7 @@
 @@||config.uca.cloud.unity3d.com^$important
 @@||prd-lender.cdp.internal.unity3d.com^$important
 @@||appconfigs.disney-plus.net^$important
-@@||prod-static.disney-plus.net^$important
-@@||prod-ripcut-delivery.disney-plus.net^$important
-@@||dialacrum.iad-03.braze.com^$important
-@@||sdk.iad-01.braze.com^$important
+@@||*.disney-plus.net^$important
+@@||*.*.braze.com^$important
 @@||d2.shared.global.fastly.net^$important
 @@||global.edge.bamgrid.com^$important
