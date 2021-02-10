@@ -9,3 +9,4 @@
 @@||*.*.nflxso.net^$important
 @@||reisinfo.ns-mlab.nl^$important
 @@||updates-http.cdn-apple.com^$important
+@@||api.unity.com^$important
