@@ -8,4 +8,3 @@
 @@||*.nflximg.net^$important
 @@||*.*.nflxso.net^$important
 @@||reisinfo.ns-mlab.nl^$important
-@@||*.tetoo.net^$important
